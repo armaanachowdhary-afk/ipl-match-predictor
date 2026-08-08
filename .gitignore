@@ -1,0 +1,8 @@
+matches.csv
+deliveries.csv
+deliveries_csv.zip
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
