@@ -5,7 +5,7 @@ historical match and ball-by-ball data (2008–2024), with feature engineering o
 team win rates, Elo ratings, venue statistics, toss decisions, and recent form
 (including powerplay/death-overs batting & bowling performance).
 
-**[Live demo →](#)** *(add your deployed Streamlit URL here)*
+
 
 ## What it does
 
